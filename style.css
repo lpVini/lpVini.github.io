@@ -1,0 +1,162 @@
+header{
+    text-align: center;
+    background-color:#FFFFFF;
+    border: 2px solid #000000;
+    width: 55%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+header h1{
+    font-size: 25px;
+    font-family: "Josefin Sans";
+}
+
+header p{
+    font-size:13px;
+    font-family: "Raleway";
+}
+
+
+.info h1{
+    font-size: 17px;
+    font-family: "Josefin Sans";
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.info h2{
+    font-size: 15px;
+    font-family: "Josefin Sans";
+}
+
+.info p{
+    font-size: 13px;
+    font-family: "Raleway";
+}
+
+.info{
+    position: absolute;
+    width: 160px;
+    height: 164px;
+    left: 40px;
+    top: 191px;
+}
+
+
+
+.perfil h1{
+    font-size: 17px;
+    font-family: "Josefin Sans";
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.perfil p{
+    font-size: 13px;
+    font-family: "Raleway";
+}
+
+.perfil{
+    position: absolute;
+    width: 326px;
+    height: 66px;
+    left: 260px;
+    top: 191px;
+
+}
+
+.trabalho{
+    position: absolute;
+    width: 330px;
+    height: 411px;
+    left: 260px;
+    top: 310px;
+
+}
+
+.trabalho h1{
+    font-size: 17px;
+    font-family: "Josefin Sans";
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.trabalho h2{
+    font-size: 15px;
+    font-family: "Josefin Sans";
+}
+
+.trabalho p{
+    font-size: 13px;
+    font-family: "Raleway";
+}
+
+.educao h1{
+    font-size: 17px;
+    font-family: "Josefin Sans";
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.educao p{
+    font-size: 13px;
+    font-family: "Raleway";
+}
+
+.educao{
+    position: absolute;
+    width: 326px;
+    height: 67px;
+    left: 260px;
+    top: 600px;
+
+}
+
+
+.habilidades h1{
+    font-size: 17px;
+    font-family: "Josefin Sans";
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.habilidades p{
+    
+    font-size: 13px;
+    font-family: "Raleway";
+}
+
+.habilidades{
+    position: absolute;
+width: 160px;
+height: 348px;
+left: 40px;
+top: 450px;
+
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li::before {
+    content: " •  •  •  •  •";
+    color: black;
+}
+
+
+.geral{
+position:relative;
+width: 610px;
+height: 842px;
+left: 650px;  
+border: 2px solid #c4c4c4;
+
+}
